@@ -18,5 +18,8 @@
     <ClCompile Include="dfs_pathfind.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="progrmaers_Network.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
